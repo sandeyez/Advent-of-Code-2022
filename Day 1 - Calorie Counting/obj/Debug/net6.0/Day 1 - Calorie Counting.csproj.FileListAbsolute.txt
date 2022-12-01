@@ -1,0 +1,15 @@
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 1 - Calorie Counting/bin/Debug/net6.0/Day 1 - Calorie Counting
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 1 - Calorie Counting/bin/Debug/net6.0/Day 1 - Calorie Counting.deps.json
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 1 - Calorie Counting/bin/Debug/net6.0/Day 1 - Calorie Counting.runtimeconfig.json
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 1 - Calorie Counting/bin/Debug/net6.0/Day 1 - Calorie Counting.dll
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 1 - Calorie Counting/bin/Debug/net6.0/Day 1 - Calorie Counting.pdb
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 1 - Calorie Counting/obj/Debug/net6.0/Day 1 - Calorie Counting.csproj.AssemblyReference.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 1 - Calorie Counting/obj/Debug/net6.0/Day 1 - Calorie Counting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 1 - Calorie Counting/obj/Debug/net6.0/Day 1 - Calorie Counting.AssemblyInfoInputs.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 1 - Calorie Counting/obj/Debug/net6.0/Day 1 - Calorie Counting.AssemblyInfo.cs
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 1 - Calorie Counting/obj/Debug/net6.0/Day 1 - Calorie Counting.csproj.CoreCompileInputs.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 1 - Calorie Counting/obj/Debug/net6.0/Day 1 - Calorie Counting.dll
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 1 - Calorie Counting/obj/Debug/net6.0/refint/Day 1 - Calorie Counting.dll
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 1 - Calorie Counting/obj/Debug/net6.0/Day 1 - Calorie Counting.pdb
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 1 - Calorie Counting/obj/Debug/net6.0/Day 1 - Calorie Counting.genruntimeconfig.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 1 - Calorie Counting/obj/Debug/net6.0/ref/Day 1 - Calorie Counting.dll

@@ -1,0 +1,15 @@
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 2 - Rock Paper Scissors/bin/Debug/net6.0/Day 2 - Rock Paper Scissors
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 2 - Rock Paper Scissors/bin/Debug/net6.0/Day 2 - Rock Paper Scissors.deps.json
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 2 - Rock Paper Scissors/bin/Debug/net6.0/Day 2 - Rock Paper Scissors.runtimeconfig.json
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 2 - Rock Paper Scissors/bin/Debug/net6.0/Day 2 - Rock Paper Scissors.dll
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 2 - Rock Paper Scissors/bin/Debug/net6.0/Day 2 - Rock Paper Scissors.pdb
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 2 - Rock Paper Scissors/obj/Debug/net6.0/Day 2 - Rock Paper Scissors.csproj.AssemblyReference.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 2 - Rock Paper Scissors/obj/Debug/net6.0/Day 2 - Rock Paper Scissors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 2 - Rock Paper Scissors/obj/Debug/net6.0/Day 2 - Rock Paper Scissors.AssemblyInfoInputs.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 2 - Rock Paper Scissors/obj/Debug/net6.0/Day 2 - Rock Paper Scissors.AssemblyInfo.cs
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 2 - Rock Paper Scissors/obj/Debug/net6.0/Day 2 - Rock Paper Scissors.csproj.CoreCompileInputs.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 2 - Rock Paper Scissors/obj/Debug/net6.0/Day 2 - Rock Paper Scissors.dll
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 2 - Rock Paper Scissors/obj/Debug/net6.0/refint/Day 2 - Rock Paper Scissors.dll
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 2 - Rock Paper Scissors/obj/Debug/net6.0/Day 2 - Rock Paper Scissors.pdb
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 2 - Rock Paper Scissors/obj/Debug/net6.0/Day 2 - Rock Paper Scissors.genruntimeconfig.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 2 - Rock Paper Scissors/obj/Debug/net6.0/ref/Day 2 - Rock Paper Scissors.dll

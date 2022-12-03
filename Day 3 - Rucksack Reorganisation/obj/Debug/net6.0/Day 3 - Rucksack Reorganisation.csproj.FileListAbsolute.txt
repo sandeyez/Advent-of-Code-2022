@@ -1,0 +1,15 @@
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 3 - Rucksack Reorganisation/bin/Debug/net6.0/Day 3 - Rucksack Reorganisation
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 3 - Rucksack Reorganisation/bin/Debug/net6.0/Day 3 - Rucksack Reorganisation.deps.json
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 3 - Rucksack Reorganisation/bin/Debug/net6.0/Day 3 - Rucksack Reorganisation.runtimeconfig.json
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 3 - Rucksack Reorganisation/bin/Debug/net6.0/Day 3 - Rucksack Reorganisation.dll
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 3 - Rucksack Reorganisation/bin/Debug/net6.0/Day 3 - Rucksack Reorganisation.pdb
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 3 - Rucksack Reorganisation/obj/Debug/net6.0/Day 3 - Rucksack Reorganisation.csproj.AssemblyReference.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 3 - Rucksack Reorganisation/obj/Debug/net6.0/Day 3 - Rucksack Reorganisation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 3 - Rucksack Reorganisation/obj/Debug/net6.0/Day 3 - Rucksack Reorganisation.AssemblyInfoInputs.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 3 - Rucksack Reorganisation/obj/Debug/net6.0/Day 3 - Rucksack Reorganisation.AssemblyInfo.cs
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 3 - Rucksack Reorganisation/obj/Debug/net6.0/Day 3 - Rucksack Reorganisation.csproj.CoreCompileInputs.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 3 - Rucksack Reorganisation/obj/Debug/net6.0/Day 3 - Rucksack Reorganisation.dll
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 3 - Rucksack Reorganisation/obj/Debug/net6.0/refint/Day 3 - Rucksack Reorganisation.dll
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 3 - Rucksack Reorganisation/obj/Debug/net6.0/Day 3 - Rucksack Reorganisation.pdb
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 3 - Rucksack Reorganisation/obj/Debug/net6.0/Day 3 - Rucksack Reorganisation.genruntimeconfig.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 3 - Rucksack Reorganisation/obj/Debug/net6.0/ref/Day 3 - Rucksack Reorganisation.dll

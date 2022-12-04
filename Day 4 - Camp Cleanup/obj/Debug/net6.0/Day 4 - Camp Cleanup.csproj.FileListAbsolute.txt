@@ -1,0 +1,15 @@
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 4 - Camp Cleanup/bin/Debug/net6.0/Day 4 - Camp Cleanup
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 4 - Camp Cleanup/bin/Debug/net6.0/Day 4 - Camp Cleanup.deps.json
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 4 - Camp Cleanup/bin/Debug/net6.0/Day 4 - Camp Cleanup.runtimeconfig.json
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 4 - Camp Cleanup/bin/Debug/net6.0/Day 4 - Camp Cleanup.dll
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 4 - Camp Cleanup/bin/Debug/net6.0/Day 4 - Camp Cleanup.pdb
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 4 - Camp Cleanup/obj/Debug/net6.0/Day 4 - Camp Cleanup.csproj.AssemblyReference.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 4 - Camp Cleanup/obj/Debug/net6.0/Day 4 - Camp Cleanup.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 4 - Camp Cleanup/obj/Debug/net6.0/Day 4 - Camp Cleanup.AssemblyInfoInputs.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 4 - Camp Cleanup/obj/Debug/net6.0/Day 4 - Camp Cleanup.AssemblyInfo.cs
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 4 - Camp Cleanup/obj/Debug/net6.0/Day 4 - Camp Cleanup.csproj.CoreCompileInputs.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 4 - Camp Cleanup/obj/Debug/net6.0/Day 4 - Camp Cleanup.dll
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 4 - Camp Cleanup/obj/Debug/net6.0/refint/Day 4 - Camp Cleanup.dll
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 4 - Camp Cleanup/obj/Debug/net6.0/Day 4 - Camp Cleanup.pdb
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 4 - Camp Cleanup/obj/Debug/net6.0/Day 4 - Camp Cleanup.genruntimeconfig.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 4 - Camp Cleanup/obj/Debug/net6.0/ref/Day 4 - Camp Cleanup.dll

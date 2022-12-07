@@ -1,0 +1,15 @@
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 7 - No Space Left On Device/bin/Debug/net7.0/Day 7 - No Space Left On Device
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 7 - No Space Left On Device/bin/Debug/net7.0/Day 7 - No Space Left On Device.deps.json
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 7 - No Space Left On Device/bin/Debug/net7.0/Day 7 - No Space Left On Device.runtimeconfig.json
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 7 - No Space Left On Device/bin/Debug/net7.0/Day 7 - No Space Left On Device.dll
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 7 - No Space Left On Device/bin/Debug/net7.0/Day 7 - No Space Left On Device.pdb
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 7 - No Space Left On Device/obj/Debug/net7.0/Day 7 - No Space Left On Device.csproj.AssemblyReference.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 7 - No Space Left On Device/obj/Debug/net7.0/Day 7 - No Space Left On Device.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 7 - No Space Left On Device/obj/Debug/net7.0/Day 7 - No Space Left On Device.AssemblyInfoInputs.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 7 - No Space Left On Device/obj/Debug/net7.0/Day 7 - No Space Left On Device.AssemblyInfo.cs
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 7 - No Space Left On Device/obj/Debug/net7.0/Day 7 - No Space Left On Device.csproj.CoreCompileInputs.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 7 - No Space Left On Device/obj/Debug/net7.0/Day 7 - No Space Left On Device.dll
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 7 - No Space Left On Device/obj/Debug/net7.0/refint/Day 7 - No Space Left On Device.dll
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 7 - No Space Left On Device/obj/Debug/net7.0/Day 7 - No Space Left On Device.pdb
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 7 - No Space Left On Device/obj/Debug/net7.0/Day 7 - No Space Left On Device.genruntimeconfig.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 7 - No Space Left On Device/obj/Debug/net7.0/ref/Day 7 - No Space Left On Device.dll

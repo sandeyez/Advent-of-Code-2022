@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{D62C51D8-9C3A-44C9-A377-EE86C8E690A7}|Default">
+  <MonoDevelop.Ide.ItemProperties.Day_2207_220-_220No_220Space_220Left_220On_220Device PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="3" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Day 7 - No Space Left On Device" expanded="True">
+            <Node name="Day 7 - No Space Left On Device" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

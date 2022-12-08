@@ -1,0 +1,15 @@
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 8 - Treetop Tree House/bin/Debug/net7.0/Day 8 - Treetop Tree House
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 8 - Treetop Tree House/bin/Debug/net7.0/Day 8 - Treetop Tree House.deps.json
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 8 - Treetop Tree House/bin/Debug/net7.0/Day 8 - Treetop Tree House.runtimeconfig.json
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 8 - Treetop Tree House/bin/Debug/net7.0/Day 8 - Treetop Tree House.dll
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 8 - Treetop Tree House/bin/Debug/net7.0/Day 8 - Treetop Tree House.pdb
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 8 - Treetop Tree House/obj/Debug/net7.0/Day 8 - Treetop Tree House.csproj.AssemblyReference.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 8 - Treetop Tree House/obj/Debug/net7.0/Day 8 - Treetop Tree House.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 8 - Treetop Tree House/obj/Debug/net7.0/Day 8 - Treetop Tree House.AssemblyInfoInputs.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 8 - Treetop Tree House/obj/Debug/net7.0/Day 8 - Treetop Tree House.AssemblyInfo.cs
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 8 - Treetop Tree House/obj/Debug/net7.0/Day 8 - Treetop Tree House.csproj.CoreCompileInputs.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 8 - Treetop Tree House/obj/Debug/net7.0/Day 8 - Treetop Tree House.dll
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 8 - Treetop Tree House/obj/Debug/net7.0/refint/Day 8 - Treetop Tree House.dll
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 8 - Treetop Tree House/obj/Debug/net7.0/Day 8 - Treetop Tree House.pdb
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 8 - Treetop Tree House/obj/Debug/net7.0/Day 8 - Treetop Tree House.genruntimeconfig.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 8 - Treetop Tree House/obj/Debug/net7.0/ref/Day 8 - Treetop Tree House.dll

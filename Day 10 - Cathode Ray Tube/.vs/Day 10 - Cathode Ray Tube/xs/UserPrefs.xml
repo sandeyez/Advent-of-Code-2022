@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{9FE99EAA-3455-4B0C-963E-D28773646196}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 10 - Cathode Ray Tube/Program.cs" relfile="Program.cs" line="13" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="46" Column="1" />
+      <File FileName="input.txt" Line="146" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Day 10 - Cathode Ray Tube" expanded="True">
+            <Node name="Day 10 - Cathode Ray Tube" expanded="True">
+              <Node name="input.txt" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Day_22010_220-_220Cathode_220Ray_220Tube PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

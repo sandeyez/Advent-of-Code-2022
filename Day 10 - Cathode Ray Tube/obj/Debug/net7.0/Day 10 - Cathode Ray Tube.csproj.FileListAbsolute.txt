@@ -1,0 +1,15 @@
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 10 - Cathode Ray Tube/bin/Debug/net7.0/Day 10 - Cathode Ray Tube
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 10 - Cathode Ray Tube/bin/Debug/net7.0/Day 10 - Cathode Ray Tube.deps.json
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 10 - Cathode Ray Tube/bin/Debug/net7.0/Day 10 - Cathode Ray Tube.runtimeconfig.json
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 10 - Cathode Ray Tube/bin/Debug/net7.0/Day 10 - Cathode Ray Tube.dll
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 10 - Cathode Ray Tube/bin/Debug/net7.0/Day 10 - Cathode Ray Tube.pdb
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 10 - Cathode Ray Tube/obj/Debug/net7.0/Day 10 - Cathode Ray Tube.csproj.AssemblyReference.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 10 - Cathode Ray Tube/obj/Debug/net7.0/Day 10 - Cathode Ray Tube.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 10 - Cathode Ray Tube/obj/Debug/net7.0/Day 10 - Cathode Ray Tube.AssemblyInfoInputs.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 10 - Cathode Ray Tube/obj/Debug/net7.0/Day 10 - Cathode Ray Tube.AssemblyInfo.cs
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 10 - Cathode Ray Tube/obj/Debug/net7.0/Day 10 - Cathode Ray Tube.csproj.CoreCompileInputs.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 10 - Cathode Ray Tube/obj/Debug/net7.0/Day 10 - Cathode Ray Tube.dll
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 10 - Cathode Ray Tube/obj/Debug/net7.0/refint/Day 10 - Cathode Ray Tube.dll
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 10 - Cathode Ray Tube/obj/Debug/net7.0/Day 10 - Cathode Ray Tube.pdb
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 10 - Cathode Ray Tube/obj/Debug/net7.0/Day 10 - Cathode Ray Tube.genruntimeconfig.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 10 - Cathode Ray Tube/obj/Debug/net7.0/ref/Day 10 - Cathode Ray Tube.dll

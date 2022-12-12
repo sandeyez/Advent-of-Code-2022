@@ -114,6 +114,7 @@
                     }
                 }
 
+                // Check if the pixel is within the sprite
                 if (Math.Abs(registerValue - ((cycle % 40) - 1)) <= 1)
                 {
                     Console.Write("#");
@@ -134,6 +135,7 @@
                     i++;
                 }
 
+                // End the line
                 if (cycle % 40 == 0)
                 {
                     Console.Write("\n");

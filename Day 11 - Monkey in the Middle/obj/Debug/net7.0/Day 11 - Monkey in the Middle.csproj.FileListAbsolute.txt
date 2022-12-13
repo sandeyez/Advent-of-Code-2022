@@ -1,0 +1,15 @@
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 11 - Monkey in the Middle/obj/Debug/net7.0/Day 11 - Monkey in the Middle.csproj.AssemblyReference.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 11 - Monkey in the Middle/obj/Debug/net7.0/Day 11 - Monkey in the Middle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 11 - Monkey in the Middle/obj/Debug/net7.0/Day 11 - Monkey in the Middle.AssemblyInfoInputs.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 11 - Monkey in the Middle/obj/Debug/net7.0/Day 11 - Monkey in the Middle.AssemblyInfo.cs
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 11 - Monkey in the Middle/obj/Debug/net7.0/Day 11 - Monkey in the Middle.csproj.CoreCompileInputs.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 11 - Monkey in the Middle/bin/Debug/net7.0/Day 11 - Monkey in the Middle
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 11 - Monkey in the Middle/bin/Debug/net7.0/Day 11 - Monkey in the Middle.deps.json
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 11 - Monkey in the Middle/bin/Debug/net7.0/Day 11 - Monkey in the Middle.runtimeconfig.json
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 11 - Monkey in the Middle/bin/Debug/net7.0/Day 11 - Monkey in the Middle.dll
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 11 - Monkey in the Middle/bin/Debug/net7.0/Day 11 - Monkey in the Middle.pdb
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 11 - Monkey in the Middle/obj/Debug/net7.0/Day 11 - Monkey in the Middle.dll
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 11 - Monkey in the Middle/obj/Debug/net7.0/refint/Day 11 - Monkey in the Middle.dll
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 11 - Monkey in the Middle/obj/Debug/net7.0/Day 11 - Monkey in the Middle.pdb
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 11 - Monkey in the Middle/obj/Debug/net7.0/Day 11 - Monkey in the Middle.genruntimeconfig.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 11 - Monkey in the Middle/obj/Debug/net7.0/ref/Day 11 - Monkey in the Middle.dll

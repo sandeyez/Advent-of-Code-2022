@@ -1,0 +1,15 @@
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 12 - Hill Climbing Algorithm/bin/Debug/net7.0/Day 12 - Hill Climbing Algorithm
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 12 - Hill Climbing Algorithm/bin/Debug/net7.0/Day 12 - Hill Climbing Algorithm.deps.json
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 12 - Hill Climbing Algorithm/bin/Debug/net7.0/Day 12 - Hill Climbing Algorithm.runtimeconfig.json
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 12 - Hill Climbing Algorithm/bin/Debug/net7.0/Day 12 - Hill Climbing Algorithm.dll
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 12 - Hill Climbing Algorithm/bin/Debug/net7.0/Day 12 - Hill Climbing Algorithm.pdb
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 12 - Hill Climbing Algorithm/obj/Debug/net7.0/Day 12 - Hill Climbing Algorithm.csproj.AssemblyReference.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 12 - Hill Climbing Algorithm/obj/Debug/net7.0/Day 12 - Hill Climbing Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 12 - Hill Climbing Algorithm/obj/Debug/net7.0/Day 12 - Hill Climbing Algorithm.AssemblyInfoInputs.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 12 - Hill Climbing Algorithm/obj/Debug/net7.0/Day 12 - Hill Climbing Algorithm.AssemblyInfo.cs
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 12 - Hill Climbing Algorithm/obj/Debug/net7.0/Day 12 - Hill Climbing Algorithm.csproj.CoreCompileInputs.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 12 - Hill Climbing Algorithm/obj/Debug/net7.0/Day 12 - Hill Climbing Algorithm.dll
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 12 - Hill Climbing Algorithm/obj/Debug/net7.0/refint/Day 12 - Hill Climbing Algorithm.dll
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 12 - Hill Climbing Algorithm/obj/Debug/net7.0/Day 12 - Hill Climbing Algorithm.pdb
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 12 - Hill Climbing Algorithm/obj/Debug/net7.0/Day 12 - Hill Climbing Algorithm.genruntimeconfig.cache
+/Users/sander/Desktop/Projects/Eigen projecten/Advent-of-Code-2022/Day 12 - Hill Climbing Algorithm/obj/Debug/net7.0/ref/Day 12 - Hill Climbing Algorithm.dll
